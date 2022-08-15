@@ -41,7 +41,14 @@
 
 
 
+### 	:technologist: What is I know 
 
+**Laravel**
+- Basic Routing
+- View Routes
+- Basic Controllers with Routes
+  
+**Javascript**
 
 
 
